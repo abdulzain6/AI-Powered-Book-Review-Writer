@@ -42,7 +42,7 @@ export OPENAI_API_KEY='your_openai_api_key_here'
 To run the application:
 
 ```bash
-streamlit run app.py
+streamlit run webapp.py
 ```
 
 Navigate to `http://localhost:8501` in your web browser to start using the app. Upload your book document and receive a professionally written review in moments.
